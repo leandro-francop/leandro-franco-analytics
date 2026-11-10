@@ -32,5 +32,5 @@ Operational dashboard for monitoring player behavior, identifying high-risk patt
 ---
 
 ## 📬 Connect
-- **LinkedIn:** [linkedin.com/in/leandro-penteado](www.linkedin.com/in/leandro-franco-penteado)
+- **LinkedIn:** [linkedin.com/in/leandro-franco-penteado](www.linkedin.com/in/leandro-franco-penteado)
 - **Email:** l.francop@outlook.com
