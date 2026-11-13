@@ -1,4 +1,4 @@
-# Hi, I'm Leandro Franco Penteado👋
+# Hi, I'm Leandro Franco👋
 ### BI & Data Analyst | SQL, Power BI, DAX, Star Schema Modeling & Business Metrics
 
 Data Analytics professional specialized in converting transactional data into strategic business insights. Experienced in data modeling (Star Schema), SQL query optimization, ETL processes, and executive dashboards for **iGaming, Sports Betting, and Risk Management**.
