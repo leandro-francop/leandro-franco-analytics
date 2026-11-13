@@ -7,7 +7,7 @@ Data Analytics professional specialized in converting transactional data into st
 
 ## 🚀 Technical Stack
 - **Databases & Querying:** SQL (PostgreSQL, BigQuery, MySQL), DAX, Python (Pandas).
-- **BI & Data Visualization:** Power BI, Metabase, Tableau, Advanced Excel.
+- **BI & Data Visualization:** Power BI, Metabase, Advanced Excel.
 - **Data Engineering & Modeling:** Star Schema, Dimensional Modeling, ETL Pipelines.
 - **Business Domains:** GGR/NGR Metrics, Risk & Fraud Analytics, RFM Segmentation, Churn Analysis.
 
